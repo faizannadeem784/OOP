@@ -1,0 +1,19 @@
+
+Student_Data
+Name: Abdullah
+
+ID: 003
+
+Name: Haider
+ID: 025
+
+
+Name: Zohaib
+ID: 16
+
+Name: Qamar
+ID: 19
+
+Name: Faizan
+ID: 002
+

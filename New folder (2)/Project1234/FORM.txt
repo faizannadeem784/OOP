@@ -1,0 +1,19 @@
+
+
+					*************ADD COURSE FORM*************
+
+
+
+
+		University Name:____UMT			Course Name:____BSSE
+		Course Code:____002
+		Smester:____1				Last CGPA:____3.5
+
+		Personal Information (To be filled in Capital letters)
+
+
+		Name:___FAIZAN_NADEEM				Gender:____M
+		Father Name:____IFTIKHAR			Date of Birth:____2001
+		Religion:____ISLAM				Address:____Sialkot
+		Phone NO.(with STD code):____0365656
+		Email Address:____abcdz

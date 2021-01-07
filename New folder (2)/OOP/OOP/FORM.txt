@@ -1,0 +1,19 @@
+
+
+					*************ADD COURSE FORM*************
+
+
+
+
+		University Name:____UMT			Course Name:____PF
+		Course Code:____014
+		Smester:____1				Last CGPA:____3.2
+
+		Personal Information (To be filled in Capital letters)
+
+
+		Name:___FAIZAN				Gender:____M
+		Father Name:____NADEEM			Date of Birth:____28
+		Religion:____ISLAM				Address:____sdgd
+		Phone NO.(with STD code):____0258
+		Email Address:____dfgh

@@ -1,0 +1,59 @@
+def addition():
+    x =int(input("Enter 1st number=\t"))
+    y = int(input("Enter 2nd number=\t"))
+    z = x + y
+    print("Addition =\t",z)
+def subtraction():
+    x = int(input("Enter 1st number=\t"))
+    y = int(input("Enter 2nd number=\t"))
+    z = x - y
+    print("Subtraction =\t",z)
+def multiplication():
+    x = int(input("Enter 1st number=\t"))
+    y = int(input("Enter 2nd number=\t"))
+    z = x * y
+    print("Multiplication =\t",z) 
+def division():
+    x = int(input("Enter 1st number =\t"))
+    y = int(input("Enter 2nd number = \t"))
+    z = x / y
+    print("Multiplication =\t",z) 
+def modulo():
+    x = int(input("Enter a number for divisor=\t"))
+    y = int(input("Enter a number for divident= \t")) 
+    modulo =  x % y
+    print("Modulo =\t",modulo)
+def square():
+    x = int(input("Enter a number for taking a square=\t"))
+    square = x*x
+    print("Square of number you entered",x," is = ",square)
+def cube():
+    x = int(input("Enter a number for taking a cube=\t"))
+    cube = x*x*x
+    print("Cube of number you entered",x," is = ",cube)
+
+print("\t\t*****Welcome to my calculator*****")
+print("\n\t\tPress 1.For Addition")
+print("\n\t\tPress 2.For Subtraction")
+print("\n\t\tPress 3.For Multiplication")
+print("\n\t\tPress 4.For Division")
+print("\n\t\tPress 5.For Modulo")
+print("\n\t\tPress 6.For Square")
+print("\n\t\tPress 7.For Cube")
+n  = int(input("Enter your Choice Here\t="))
+if n==1:
+    addition()
+elif n==2:
+    subtraction()
+elif n==3:
+    multiplication()
+elif n==4:
+    division()
+elif n==5:
+    modulo()
+elif n==6:
+    square()
+elif n==7:
+    cube()
+else:
+    print("INVALID ENTRY :(")                    

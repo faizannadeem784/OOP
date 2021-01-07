@@ -1,0 +1,46 @@
+
+*****Student's Record*****
+First Name: Zohaib
+Last Name: Zahid
+Roll #: 001
+
+First Name: Haider
+Last Name: Javed
+Roll #: 002
+
+
+First Name: Abdullah
+Last Name: Sarfaraz
+Roll #: 003
+
+First Name: Faizan
+Last Name: Nadeem
+Roll #: 004
+
+First Name: Qamar
+Last Name: Shazib
+Roll #: 005
+
+
+*****Student's Record*****
+First Name: Zohaib
+Last Name: Zahid
+Roll #: 001
+
+First Name: Haider
+Last Name: Javed
+Roll #: 002
+
+
+First Name: Abdullah
+Last Name: Sarfaraz
+Roll #: 003
+
+First Name: Faizan
+Last Name: Nadeem
+Roll #: 004
+
+First Name: Qamar
+Last Name: Shazib
+Roll #: 005
+

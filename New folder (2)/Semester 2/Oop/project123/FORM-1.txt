@@ -1,0 +1,19 @@
+
+
+					*************ADD COURSE FORM*************
+
+
+
+
+		University Name:____umt			Course Name:____abc
+		Course Code:____123
+		Smester:____1				Last CGPA:____3
+
+		Personal Information (To be filled in Capital letters)
+
+
+		Name:___sdffds				Gender:____dg
+		Father Name:____fg			Date of Birth:____sdff
+		Religion:____asd				Address:____3422
+		Phone NO.(with STD code):____5765
+		Email Address:____1231

@@ -1,0 +1,19 @@
+
+****************Registered Students****************
+
+ 	 _______________________________
+	|				|
+	|**************BSSE*************|
+	|_______________________________|
+	|  ID  |     STUDENT NAME 	|
+	|______|________________________|
+	|  01  |     HAIDER CHAUDHARY	|   
+	|  03  |     ABDULAAH SARFRAZ	| 
+	|  06  |     ABDULLAH SAIF      |	
+	|  08  |     BURHAN CHEEMA 	|	
+	|  10  |     USAMA NASEER	|	
+	|  13  |     MUHAMMAD RIZWAN    |	
+	|  15  |     MUHAMMAD ABDULLAH  |	
+	|  17  |     SHAN ALI	        |	
+	|  20  |     USMAN              |		
+	|______|________________________|

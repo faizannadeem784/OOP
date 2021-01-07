@@ -1,0 +1,17 @@
+
+****************Registered Students****************
+
+	 _______________________________
+	|				|
+	|**************BSCS*************|
+	|_______________________________|
+	|  ID  |     Participant Name	|
+	|______|________________________|
+	|  71  |     AHMED BUTT		|   
+	|  72  |     MUHAMMAD SUBHAN	| 
+	|  73  |     SHERAZ AHMED       |	
+	|  77  |     FAISAL SHA		|	
+	|  79  |     ISHFAQ NADEEM 	|	
+	|  81  |     HAFIZ TAYAB        |	
+	|  87  |     ZEESHAN ALI        |	
+	|______|________________________|

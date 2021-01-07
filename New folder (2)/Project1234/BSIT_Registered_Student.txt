@@ -1,0 +1,18 @@
+
+****************Registered Students****************
+
+ 	 _______________________________
+	|				|
+	|**************BSIT*************|
+	|_______________________________|
+	|  ID  |     Participant Name	|
+	|______|________________________|
+	|  52  |    ARSLAN BUTT 	|   
+	|  54  |    JASIM CHAUDHARY 	| 
+	|  58  |    FAROQ BAIG          |	
+	|  60  |    HAMZA MUSTAKIM 	|	
+	|  61  |    HAFIZ TAYAB  	|	
+	|  62  |    ABDULLAH SALEH      |	
+	|  63  |    MUHAMMAD IBRAHIM    |	
+	|  64  |    FAIZ ALI            |		
+	|______|________________________|

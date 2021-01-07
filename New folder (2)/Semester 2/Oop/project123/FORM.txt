@@ -1,0 +1,19 @@
+
+
+					*************ADD COURSE FORM*************
+
+
+
+
+		University Name:____			Course Name:____
+		Course Code:____
+		Smester:____				Last CGPA:____0
+
+		Personal Information (To be filled in Capital letters)
+
+
+		Name:___				Gender:____
+		Father Name:____			Date of Birth:____
+		Religion:____				Address:____
+		Phone NO.(with STD code):____
+		Email Address:____

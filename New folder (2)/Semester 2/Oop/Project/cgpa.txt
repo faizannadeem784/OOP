@@ -1,0 +1,85 @@
+class CGPA
+{
+	private:
+	int choice,go_back,Department,menue;
+	char x;
+	public:
+
+	int CGPA_detail()
+	{
+	do
+	{
+		
+		cout<<"Please Select The Department\n\n\t1-BSSE\n\t2-BSCS\n\t3-BSIT\n\n\tOr Press\n4-To Go Back\t\t";
+		cin>>Department;
+		system("CLS");
+	
+	{
+		switch (Department)
+		{
+			
+			case 1:
+			{
+				char data[10000];
+				ifstream ifile; 
+				ifile.open("BSSE_CGPA.txt");
+				while (!ifile.eof()) 
+				{	  
+      				ifile.getline(data, 10000); 
+    				cout << "\t\t\t\t"<<data << endl;
+    			}
+    			cout<<"\n\nPress\n1-For Going Back\t\t\t";
+    			cin>>go_back;
+				break;
+			}
+			case 2:
+			{
+				char data[1000]; 
+  				ifstream ifile; 
+				ifile.open("CGPA_BSCS.txt");
+				while (!ifile.eof()) 
+				{	  
+      				ifile.getline(data, 1000); 
+    				cout << "\t\t\t\t"<<data << endl;
+    			}
+    			cout<<"\n\nPress\n1-For Going Back\t\t\t";
+    			cin>>go_back;
+				break;
+			}
+			case 3:
+			{
+				char data[1000]; 
+  				ifstream ifile; 
+				ifile.open("CGPA_BSIT.txt");
+				while (!ifile.eof()) 
+				{	  
+      				ifile.getline(data, 1000); 
+    				cout << "\t\t\t\t"<<data << endl;
+    			}
+    			cout<<"\n\nPress\n1-For Going Back\t\t\t";
+    			cin>>go_back;
+				break;
+			}
+			case 4:
+			{
+				CGPA C;
+				break;
+			}
+		
+		}
+	
+		{
+			cout<<endl<<"Do you want to check Again(Y/N)";
+			cin>>x;
+		}
+		system("CLS");
+	}	
+	while(x=='y'&&x=='Y');
+	}
+//	friend int go_back_to_menue(CGPA);
+};
+
+//int go_back_to_menue(CGPA C)
+//{
+//}
+
